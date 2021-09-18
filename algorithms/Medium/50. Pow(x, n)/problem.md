@@ -28,4 +28,4 @@ Explanation: 2-2 = 1/22 = 1/4 = 0.25
 
 | Status | Runtime | Memory |
 |---|---|---|
-| Accepted | 1 ms | 39.4 MB |
+| Accepted | 0 ms | 38.7 MB |

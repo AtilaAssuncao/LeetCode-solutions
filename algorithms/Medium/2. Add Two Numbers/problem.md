@@ -1,4 +1,4 @@
-### Pow(x, n)
+### Add Two Numbers
 
 You are given two **non-empty** linked lists representing two non-negative integers. The digits are stored in **reverse order**, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
@@ -30,4 +30,4 @@ Output: [8,9,9,9,0,0,0,1]
 
 | Status | Runtime | Memory |
 |---|---|---|
-| Accepted | 1 ms | 39.4 MB |
+| Accepted | 2 ms | 39.4 MB |
